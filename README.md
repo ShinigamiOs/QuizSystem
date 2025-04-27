@@ -153,7 +153,7 @@ Puedes luego crear tus cuestionarios en un `MonoBehaviour`, editor, o cargarlos 
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT.
+Este proyecto está licenciado bajo la Licencia GNU.
 
 ---
 
